@@ -2,7 +2,7 @@
 
 #### What is the difference between classes and ID's in CSS?
 
-*Not answered yet*
+By Id, css will be applied to the first occurence, where by class css will be applied to all occurrence. 
 
 #### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 
